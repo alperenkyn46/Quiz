@@ -1,0 +1,26 @@
+Asgari Ücreti Giriniz: 
+500
+Aracın Markasi: Martı Modeli: martı Yakıt Türü: Elektrik Tekerlek Sayısı: 2 Motor Gücü: 100
+Aracın Markasi: BMX Modeli: bmx Yakıt Türü: Yok Tekerlek Sayısı: 2 Motor Gücü: 0
+Aracın Markasi: Solcano Modeli: solcano Yakıt Türü: Yok Tekerlek Sayısı: 2 Motor Gücü: 0
+Aracın Markasi: Bianchi Modeli: bianchi Yakıt Türü: Yok Tekerlek Sayısı: 2 Motor Gücü: 0
+Aracın Markasi: Honda Modeli: honda Yakıt Türü: LPG Tekerlek Sayısı: 2 Motor Gücü: 250
+Aracın Markasi: Kawasaki Modeli: kawasaki Yakıt Türü: Yok Tekerlek Sayısı: 2 Motor Gücü: 1000
+Aracın Markasi: Ford Modeli: focus Yakıt Türü: Dizel Tekerlek Sayısı: 4 Motor Gücü: 120
+Araştırma Görevlisi Sayın Akademisyenimiz Doktor Öğretim Üyesi Olunca Bisiklet Alabilirsiniz.
+Doçent Doğru bir araç ile eşleşme sağlandı mevcut arabanızı başka bir akademisyenin kullanımına sununuz.
+Doçent Doğru bir araç ile eşleşme sağlandı mevcut arabanızı başka bir akademisyenin kullanımına sununuz.
+Doktor Öğretim Üyesi Doğru bir araç ile eşleşme sağlandı mevcut arabanızı başka bir akademisyenin kullanımına sununuz.
+Doktor Öğretim Üyesi Sayın Akademisyenimiz Doçent Olunca Motosiklet Alabilirsiniz.
+Doktor Öğretim Üyesi Sayın Akademisyenimiz Doçent Olunca Motosiklet Alabilirsiniz.
+Profesör Sayın Akademisyenimiz Doktor Öğretim Üyesi Olunca Bisiklet Alabilirsiniz.
+-----------
+Akademisyen Maaşları
+-----------------
+Araştırma Görevlisi  Maaşı: 750
+Doçent  Maaşı: 1500
+Doçent  Maaşı: 1500
+Doktor Öğretim Üyesi  Maaşı: 1000
+Doktor Öğretim Üyesi  Maaşı: 1000
+Doktor Öğretim Üyesi  Maaşı: 1000
+Profesör  Maaşı: 2500
